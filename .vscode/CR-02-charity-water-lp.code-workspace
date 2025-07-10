@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "CR-02-charity-water-lp",
+			"path": ".."
+		}
+	],
+  "settings": {
+    "githubPullRequests.ignoredPullRequestBranches": [
+      "main"
+    ]
+  }
+}
